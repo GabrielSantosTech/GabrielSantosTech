@@ -20,6 +20,7 @@ Inglês e espanhol básicos, sempre em aprendizado contínuo! 🌎
 <img alt="Discord Bot" src="https://img.shields.io/badge/Discord_Bot-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 <img alt="UI/UX" src="https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge&logo=figma&logoColor=white"/>
 <img alt="Roblox" src="https://img.shields.io/badge/Roblox-E9141D?style=for-the-badge&logo=roblox&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
 
 
