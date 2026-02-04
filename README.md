@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Gabriel Santos
 
-![Status](https://img.shields.io/badge/Status-Estudante-green) ![Idade](https://img.shields.io/badge/16%20anos-blue) ![Localização](https://img.shields.io/badge/Local-SP-lightgrey)
+![Status](https://img.shields.io/badge/Status-Estudante-green) ![Idade](https://img.shields.io/badge/17%20anos-blue) ![Localização](https://img.shields.io/badge/Local-SP-lightgrey)
 
 Sou um estudante apaixonado por programação e tecnologia, atualmente cursando **Técnico em Desenvolvimento de Sistemas**.  
 Meu objetivo é evoluir como desenvolvedor, ingressar na **faculdade de ADS** e construir uma carreira sólida na área de tecnologia.  
