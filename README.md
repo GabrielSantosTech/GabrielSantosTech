@@ -2,6 +2,12 @@
 
 ![Status](https://img.shields.io/badge/Status-Estudante-green) ![Idade](https://img.shields.io/badge/17%20anos-blue) ![Localização](https://img.shields.io/badge/Local-SP-lightgrey)
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzlwMnNjdzA2cTRtbXcwMXJsZzIyeWFianh1dXkwazZvbGRoZTBteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k81NasbqkKA5HSyJxN/giphy.gif" width="400px" alt="commit gif looping" />
+</p>
+
+
+
 Sou um estudante apaixonado por programação e tecnologia, atualmente cursando **Técnico em Desenvolvimento de Sistemas**.  
 Meu objetivo é evoluir como desenvolvedor, ingressar na **faculdade de ADS** e construir uma carreira sólida na área de tecnologia.  
 
