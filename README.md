@@ -23,7 +23,7 @@ Inglês e espanhol básicos, sempre em aprendizado contínuo! 🌎
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="Discord Bot" src="https://img.shields.io/badge/Discord_Bot-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-<img alt=""/>
+<img alt="FIGMA" src ="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)"/>
 </div>
 
 
