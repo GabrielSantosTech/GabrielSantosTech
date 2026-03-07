@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Gabriel Santos
+# 👋 Olá, eu sou Gabriel Santos <img alt="GITHUB" src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
 
 ![Status](https://img.shields.io/badge/Status-Estudante-green) ![Idade](https://img.shields.io/badge/17%20anos-blue) ![Localização](https://img.shields.io/badge/Local-SP-lightgrey)
 
@@ -38,6 +38,10 @@ Inglês e espanhol básicos, sempre em aprendizado contínuo! 🌎
 <img alt="GIMP" src ="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"/>
 <img alt="KRITA" src ="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/>
 </div>
+
+
+
+
 
 
 
