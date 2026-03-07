@@ -74,7 +74,8 @@ Inglês e espanhol básicos, sempre em aprendizado contínuo! 🌎
 
 <div>
 <img src="https://img.shields.io/badge/Discord-gabrielking23k-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-gabrielsantos2303-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-GabrielSantosTech-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/gabrielking2303-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </div>
 
 ---
