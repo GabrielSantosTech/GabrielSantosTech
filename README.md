@@ -36,6 +36,7 @@ Inglês e espanhol básicos, sempre em aprendizado contínuo! 🌎
 <img alt="CANVA" src ="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 <img alt="ASEPRITE" src ="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E"/>
 <img alt="GIMP" src ="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"/>
+<img alt="KRITA" src ="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/>
 </div>
 
 
