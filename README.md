@@ -9,7 +9,7 @@
 
 
 Sou um estudante apaixonado por programação e tecnologia, atualmente cursando **Técnico em Desenvolvimento de Sistemas**.  
-Meu objetivo é evoluir como desenvolvedor, ingressar na **faculdade de ADS** e construir uma carreira sólida na área de tecnologia.  
+Meu objetivo é evoluir como desenvolvedor, ingressar na **faculdade de ENG SOFTWARE** e construir uma carreira sólida na área de tecnologia.  
 
 Inglês e espanhol básicos, sempre em aprendizado contínuo! 🌎
 
@@ -83,7 +83,7 @@ Inglês e espanhol básicos, sempre em aprendizado contínuo! 🌎
 ## 🎯 Objetivos Futuros
 
 - ✅ Concluir o curso técnico em Desenvolvimento de Sistemas  
-- 🎓 Ingressar na faculdade de ADS  
+- 🎓 Ingressar na faculdade de ENG SOFTWARE 
 - 💡 Desenvolver projetos próprios e contribuir com a comunidade  
 - 🚀 Iniciar carreira profissional como desenvolvedor  
 - 💰🏠 **Alcançar estabilidade financeira e familiar**
