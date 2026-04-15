@@ -11,9 +11,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSantosTech&layout=compact&bg_color=000000&title_color=2ea44f&text_color=ffffff&border_color=2ea44f" />
 </p>
 
-!
 
-### 🚀 Software Developer in Training <img alt="GITHUB" src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+
+### 👽 Software Developer in Training <img alt="GITHUB" src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 **Técnico em Desenvolvimento de Sistemas | Futuro Engenheiro de Software**
                <h3 align="center">Back-End • UX/UI • Software Architecture</h3>
 ---
