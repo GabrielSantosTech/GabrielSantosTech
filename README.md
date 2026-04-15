@@ -4,7 +4,7 @@
 </p>
 
  ![Status](https://img.shields.io/badge/Status-Estudante-green) ![Idade](https://img.shields.io/badge/17%20anos-blue) ![Localização](https://img.shields.io/badge/Local-SP-lightgrey) <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GabrielSantosTech&label=Visitantes&color=8A2BE2&style=flat-square" alt="contador de visitantes" />
+  <img src="https://komarev.com/ghpvc/?username=defunkt&label=Visitantes&color=8A2BE2&style=flat-square" alt="contador de visitantes" />
 </p>
 
 ### 🚀 Software Developer in Training
