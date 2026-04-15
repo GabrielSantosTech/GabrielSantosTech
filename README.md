@@ -26,10 +26,10 @@ Comprometido em aprender os fundamentos que sustentam softwares de alto impacto.
 ---
 ### 🎓 Certificações / Cursos
 
-* **Ciência de Dados** - Alura             | * **Teoria da  Ciência Computação** - Khan Academy
-* **Clusterização de Dados** - Alura       | * **JavaScript e a web** - Khan Academy
-* **Java Backend** - Fernanda Kipper       | * **Machine Learning inicial** - Alura
-* **Python Intermediario** - Didatica Tech | * **PCA - Análise de componentes principais** - Alura
+* **Ciência de Dados** - Alura             |**Teoria da  Ciência Computação** - Khan Academy
+* **Clusterização de Dados** - Alura       |**JavaScript e a web** - Khan Academy
+* **Java Backend** - Fernanda Kipper       |**Machine Learning inicial** - Alura
+* **Python Intermediario** - Didatica Tech |**PCA - Análise de componentes principais** - Alura
 
 ### 🛠️ Tecnologias & Stack
 Para construir aplicações eficientes, utilizo as seguintes linguagens e tecnologias:
