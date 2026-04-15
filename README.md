@@ -32,6 +32,8 @@ Comprometido em aprender os fundamentos que sustentam softwares de alto impacto.
 * **Python Intermediario** - Didatica Tech
 * **Teoria da  Ciência Computação** - Khan Academy
 * **JavaScript e a web** - Khan Academy
+* **Machine Learning inicial** - Alura
+* ** PCA - Análise de componentes principais** - Alura
 
 ### 🛠️ Tecnologias & Stack
 Para construir aplicações eficientes, utilizo as seguintes linguagens e tecnologias:
