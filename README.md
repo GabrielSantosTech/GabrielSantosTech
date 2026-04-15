@@ -8,11 +8,34 @@
 
 
 
-Software Developer in Training
-🎓 Técnico em Desenvolvimento de Sistemas | Futuro Engenheiro de Software.
+# Olá, eu sou o [Seu Nome] 👋
+
+### 🚀 Software Developer in Training
+**Técnico em Desenvolvimento de Sistemas | Futuro Engenheiro de Software**
 
 Comprometido em aprender os fundamentos que sustentam softwares de alto impacto. Focado em evoluir minhas habilidades técnicas e analíticas para criar sistemas eficientes, escaláveis e elegantes.
+
 ---
+
+### 🛠️ Tecnologias e Ferramentas
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📈 Estatísticas
+![Status do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
+
+---
+
+### 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN_AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
 ## 🛠️ Tecnologias e Linguagens
 
