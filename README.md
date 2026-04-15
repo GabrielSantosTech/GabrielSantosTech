@@ -11,8 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSantosTech&layout=compact&bg_color=000000&title_color=2ea44f&text_color=ffffff&border_color=2ea44f" />
 </p>
 
-
-
+!
 
 ### 🚀 Software Developer in Training <img alt="GITHUB" src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 **Técnico em Desenvolvimento de Sistemas | Futuro Engenheiro de Software**
@@ -29,33 +28,33 @@ Comprometido em aprender os fundamentos que sustentam softwares de alto impacto.
 ### 🛠️ Tecnologias & Stack
 Para construir aplicações eficientes, utilizo as seguintes linguagens e tecnologias:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Java](https://img.shields.io/badge/Java-2ea44f?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2ea44f?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2ea44f?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-2ea44f?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2ea44f?style=for-the-badge&logo=css3&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-2ea44f?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
 ### 💻 Ferramentas & IDEs
 Meu ecossistema de desenvolvimento focado em produtividade e qualidade:
 
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-2ea44f?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-2ea44f?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-2ea44f?style=for-the-badge&logo=WebStorm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-2ea44f?style=for-the-badge&logo=PyCharm&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-2ea44f?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
 ### 🎨 Design & Visual
 Habilidades criativas que complementam meu perfil técnico, permitindo a criação de interfaces modernas e assets visuais:
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=7D929E)
-![GIMP](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-317ABC?style=for-the-badge&logo=Krita&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-2ea44f?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-2ea44f?style=for-the-badge&logo=Canva&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-2ea44f?style=for-the-badge&logo=Aseprite&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-2ea44f?style=for-the-badge&logo=gimp&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-2ea44f?style=for-the-badge&logo=Krita&logoColor=white)
 
 ---
 ---
