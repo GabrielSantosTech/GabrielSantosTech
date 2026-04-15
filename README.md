@@ -3,7 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Java%2FPython;Clean+Code+%2B+UX+%2B+Performance%3D🔥;Criando+o+DevVerse+com+alma+de+produto" />
 </p>
 
- ![Status](https://img.shields.io/badge/Status-Estudante-green) ![Idade](https://img.shields.io/badge/17%20anos-blue) ![Localização](https://img.shields.io/badge/Local-SP-lightgrey)
+ ![Status](https://img.shields.io/badge/Status-Estudante-green) ![Idade](https://img.shields.io/badge/17%20anos-blue) ![Localização](https://img.shields.io/badge/Local-SP-lightgrey) <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=igaodeveloper&label=Visitantes&color=8A2BE2&style=flat-square" alt="contador de visitantes" />
+</p>
 
 ### 🚀 Software Developer in Training
 **Técnico em Desenvolvimento de Sistemas | Futuro Engenheiro de Software**
