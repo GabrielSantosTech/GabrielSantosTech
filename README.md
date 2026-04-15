@@ -6,10 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Gabriel%20Santos&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35" />
 </h1>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSantosTech&show_icons=true&bg_color=000000&title_color=2ea44f&icon_color=2ea44f&text_color=ffffff&border_color=2ea44f&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSantosTech&layout=compact&bg_color=000000&title_color=2ea44f&text_color=ffffff&border_color=2ea44f" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSantosTech&layout=compact&bg_color=000000&title_color=2ea44f&text_color=ffffff&border_color=2ea44f&langs_count=8&exclude_repo=NOME_DE_ALGUM_REPO_QUE_NAO_QUEIRA)
 
 
 
