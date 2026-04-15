@@ -39,43 +39,22 @@ Meu ecossistema de desenvolvimento focado em produtividade e qualidade:
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
+### 🎨 Design & Visual
+Habilidades criativas que complementam meu perfil técnico, permitindo a criação de interfaces modernas e assets visuais:
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=7D929E)
+![GIMP](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-317ABC?style=for-the-badge&logo=Krita&logoColor=white)
+
+---
 
 ### 📈 Estatísticas
 ![Status do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielSantosTech&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSantosTech&layout=compact&theme=radical)
 
 ---
-
-### 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN_AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-
-## 🛠️ Tecnologias e Linguagens
-
-<div>
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="Discord Bot" src="https://img.shields.io/badge/Discord_Bot-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-<img alt="JAVA" src ="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</div>
-
-
-## 🏞️ Design
-
-
-
-<div>
-<img alt="FIGMA" src ="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-<img alt="CANVA" src ="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-<img alt="ASEPRITE" src ="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E"/>
-<img alt="GIMP" src ="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"/>
-<img alt="KRITA" src ="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/>
-</div>
-
-
-
 
 ## 📬 Contato Rápido
 
