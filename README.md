@@ -6,10 +6,11 @@
 
 ### 🚀 Software Developer in Training
 **Técnico em Desenvolvimento de Sistemas | Futuro Engenheiro de Software**
+---
 ![Idade](https://img.shields.io/badge/17_Anos-000?style=flat-square&logo=cakephp&logoColor=white)
 ![Localização](https://img.shields.io/badge/São_Paulo_--_Brasil-000?style=flat-square&logo=googlemaps&logoColor=white)
 ![Status](https://img.shields.io/badge/Estudante_Técnico-000?style=flat-square&logo=read-the-docs&logoColor=white)
-
+---
 Comprometido em aprender os fundamentos que sustentam softwares de alto impacto. Focado em evoluir minhas habilidades técnicas e analíticas para criar sistemas eficientes, escaláveis e elegantes.
 
 ---
