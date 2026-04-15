@@ -8,11 +8,10 @@
 
 
 
-Sou um estudante apaixonado por programação e tecnologia, atualmente cursando **Técnico em Desenvolvimento de Sistemas**.  
-Meu objetivo é evoluir como desenvolvedor, ingressar na **faculdade de ENG SOFTWARE** e construir uma carreira sólida na área de tecnologia.  
+Software Developer in Training
+🎓 Técnico em Desenvolvimento de Sistemas | Futuro Engenheiro de Software.
 
-Inglês e espanhol básicos, sempre em aprendizado contínuo! 🌎
-
+Comprometido em aprender os fundamentos que sustentam softwares de alto impacto. Focado em evoluir minhas habilidades técnicas e analíticas para criar sistemas eficientes, escaláveis e elegantes.
 ---
 
 ## 🛠️ Tecnologias e Linguagens
