@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Gabriel Santos <img alt="GITHUB" src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Java%2FPython;Clean+Code+%2B+UX+%2B+Performance%3D🔥;Criando+o+DevVerse+com+alma+de+produto" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=Back-End+Java+%2B+Python;Clean+Code+%2B+Performance;POO+%2B+Sistemas+Escal%C3%A1veis;Engenharia+com+Alma+de+Produto" />
 </p>
 
 
