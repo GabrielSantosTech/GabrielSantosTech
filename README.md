@@ -34,6 +34,7 @@ Comprometido em aprender os fundamentos que sustentam softwares de alto impacto.
 * **JavaScript basico** - Khan Academy
 * **Machine Learning basico** - Alura
 * **PCA - Análise de componentes principais** - Alura
+* **Programação Orientada a Objetos em Python** - Hashtag
 
 
 ### 🛠️ Tecnologias & Stack
