@@ -6,6 +6,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Gabriel%20Santos&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35" />
 </h1>
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSantosTech&show_icons=true&bg_color=000000&title_color=2ea44f&icon_color=2ea44f&text_color=ffffff&border_color=2ea44f&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSantosTech&layout=compact&bg_color=000000&title_color=2ea44f&text_color=ffffff&border_color=2ea44f" />
+</p>
+
+
+
 
 ### 🚀 Software Developer in Training <img alt="GITHUB" src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 **Técnico em Desenvolvimento de Sistemas | Futuro Engenheiro de Software**
@@ -51,11 +58,6 @@ Habilidades criativas que complementam meu perfil técnico, permitindo a criaç�
 ![Krita](https://img.shields.io/badge/Krita-317ABC?style=for-the-badge&logo=Krita&logoColor=white)
 
 ---
-
-### 📈 Estatísticas
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielSantosTech&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSantosTech&layout=compact&theme=radical)
-
 ---
 
 ## 📬 Contato Rápido
