@@ -1,9 +1,6 @@
 # 👋 Olá, eu sou Gabriel Santos <img alt="GITHUB" src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
-
-
-
-# Olá, eu sou o [Gabriel Santos] 👋 ![Status](https://img.shields.io/badge/Status-Estudante-green) ![Idade](https://img.shields.io/badge/17%20anos-blue) ![Localização](https://img.shields.io/badge/Local-SP-lightgrey)
+ ![Status](https://img.shields.io/badge/Status-Estudante-green) ![Idade](https://img.shields.io/badge/17%20anos-blue) ![Localização](https://img.shields.io/badge/Local-SP-lightgrey)
 
 ### 🚀 Software Developer in Training
 **Técnico em Desenvolvimento de Sistemas | Futuro Engenheiro de Software**
