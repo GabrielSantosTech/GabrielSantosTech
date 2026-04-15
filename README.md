@@ -6,6 +6,7 @@
 
 ### 🚀 Software Developer in Training
 **Técnico em Desenvolvimento de Sistemas | Futuro Engenheiro de Software**
+               <h3 align="center">Back-End • UX/UI • Software Architecture</h3>
 ---
 ![Idade](https://img.shields.io/badge/17_Anos-000?style=flat-square&logo=cakephp&logoColor=white)
 ![Localização](https://img.shields.io/badge/São_Paulo_--_Brasil-000?style=flat-square&logo=googlemaps&logoColor=white)
