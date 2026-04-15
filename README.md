@@ -80,6 +80,16 @@ Inglês e espanhol básicos, sempre em aprendizado contínuo! 🌎
 
 ---
 
+
+
+## 📬 Contato Rápido
+
+<p align="center">
+  <a href="mailto:gr7812689@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://igao404.vercel.app"><img src="https://img.shields.io/badge/portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+
 ## 🎯 Objetivos Futuros
 
 - ✅ Concluir o curso técnico em Desenvolvimento de Sistemas  
