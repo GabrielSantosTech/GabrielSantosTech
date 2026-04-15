@@ -28,8 +28,8 @@ Comprometido em aprender os fundamentos que sustentam softwares de alto impacto.
 ---
 
 ### 📈 Estatísticas
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
+![Status do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielSantosTech&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSantosTech&layout=compact&theme=radical)
 
 ---
 
