@@ -3,11 +3,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Java%2FPython;Clean+Code+%2B+UX+%2B+Performance%3D🔥;Criando+o+DevVerse+com+alma+de+produto" />
 </p>
 
- ![Status](https://img.shields.io/badge/Status-Estudante-green) ![Idade](https://img.shields.io/badge/17%20anos-blue)
-</p>
 
 ### 🚀 Software Developer in Training
 **Técnico em Desenvolvimento de Sistemas | Futuro Engenheiro de Software**
+![Idade](https://img.shields.io/badge/17_Anos-000?style=flat-square&logo=cakephp&logoColor=white)
+![Localização](https://img.shields.io/badge/São_Paulo_--_Brasil-000?style=flat-square&logo=googlemaps&logoColor=white)
+![Status](https://img.shields.io/badge/Estudante_Técnico-000?style=flat-square&logo=read-the-docs&logoColor=white)
 
 Comprometido em aprender os fundamentos que sustentam softwares de alto impacto. Focado em evoluir minhas habilidades técnicas e analíticas para criar sistemas eficientes, escaláveis e elegantes.
 
