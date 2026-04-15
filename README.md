@@ -24,6 +24,14 @@
 Comprometido em aprender os fundamentos que sustentam softwares de alto impacto. Focado em evoluir minhas habilidades técnicas e analíticas para criar sistemas eficientes, escaláveis e elegantes.
 
 ---
+### 🎓 Certificações / Cursos
+
+* **Ciência de Dados** - Alura
+* **Clusterização de Dados** - Alura
+* **Java Backend** - Fernanda Kipper
+* **Python Intermediario** - Didatica Tech
+* **Teoria da  Ciência Computação** - Khan Academy
+* **JavaScript e a web** - Khan Academy
 
 ### 🛠️ Tecnologias & Stack
 Para construir aplicações eficientes, utilizo as seguintes linguagens e tecnologias:
