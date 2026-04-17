@@ -74,7 +74,7 @@ Habilidades criativas que complementam meu perfil técnico, permitindo a criaç�
 ## 📬 Contato Rápido
 
 <p align="center">
-  <a href="mailto:gr7812689@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:GabrielSantosTech.dev@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://gabrielsantosportfolio.netlify.app/"><img src="https://img.shields.io/badge/portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
