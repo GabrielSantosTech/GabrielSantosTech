@@ -29,7 +29,7 @@ Comprometido em aprender os fundamentos que sustentam softwares de alto impacto.
 * **Ciência de Dados** - Alura
 * **Clusterização de Dados** - Alura
 * **Java Intermediario** - Fernanda Kipper
-* **Python Intermediario** - Didatica Tech
+* **Python Avançado** - Didatica Tech
 * **Teoria da  Ciência Computação** - Khan Academy
 * **JavaScript basico** - Khan Academy
 * **Machine Learning basico** - Alura
