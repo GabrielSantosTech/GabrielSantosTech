@@ -14,7 +14,7 @@
 </p>
 
 ### 👽 Software Developer in Training <img alt="GITHUB" src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-**Técnico em Desenvolvimento de Sistemas | Futuro Engenheiro de Software**
+**Técnico em Desenvolvimento de Sistemas |Future Software Engineer**
                <h3 align="center">Back-End • UX/UI • Software Architecture</h3>
 ---
 ![Idade](https://img.shields.io/badge/17_Anos-000?style=flat-square&logo=cakephp&logoColor=white)
